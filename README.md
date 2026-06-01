@@ -2,12 +2,12 @@
 
 AdriaDrive je React rent a car aplikacija sa javnom flotom vozila, registracijom, prijavom, Gost rezervacijama, Admin panelom i json-server bazom. Tema koristi crno-bijelu paletu, naglašen glass morphism, sans-serif tipografiju i diskretne CSS animacije.
 
-## Članovi tima i doprinosi
+## Članovi tima: 
 
 
-| Ahmed : React UI, rute, Context API autentikacija, forme, validacija
-| Bakir: admin upravljanje vozilima, admin odgovori na poruke, responsive CSS 
-| Mustafa:  README struktura, lokalno pokretanje, baza i priprema za deployment dokumentaciju 
+| Ahmed Halilović
+| Bakir Efendić
+| Mustafa Drapić
 
 ## Tech stack
 
